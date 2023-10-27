@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @faizanjarjez
+- 👀 I’m interested in sports, python programming, designing & hardware 
+- 🌱 I’m currently learning designing
+- 💞️ I’m looking to collaborate on real time projects and web designing
+- 📫 How to reach me insta-@faizan_jarjez or whatsapp- 9391567478

@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @faizanjarjez
-- 👀 I’m interested in sports, python programming, designing & hardware 
-- 🌱 I’m currently learning designing
-- 💞️ I’m looking to collaborate on real time projects and web designing
-- 📫 How to reach me insta-@faizan_jarjez or whatsapp- 9391567478
+🚀 AI & ML Engineer | Generative AI | LLMs | Full-Stack Developer
+💡 Passionate about building scalable AI solutions and developer-friendly applications
+🤖 Experienced with LLM fine-tuning, NLP, CNNs, and ML model deployment
+🛠 Skilled in Python | C++ | Django | Flask | TensorFlow | HuggingFace | REST APIs
+🏆 Hackathon enthusiast | Solved 500+ DSA problems across coding platforms
+📌 Always exploring MLOps, cloud integration, and open-source contributions
+🌟 On a mission to turn ideas into impactful products
